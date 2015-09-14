@@ -1,4 +1,6 @@
 # OSU-BPM-Counter
+
+<b>** This program is not very accurate due to how OSU! Measures it's BPM. I recommend this program: http://puu.sh/5vL8X.jar ** </b> 
 Counts how many times you can press Z &amp; X in one second and transfers that into BPM
 
 <b> How to use </b>
