@@ -1,7 +1,7 @@
 # OSU-BPM-Counter
 Counts how many times you can press Z &amp; X in one second and transfers that into BPM
 
-<b> How to use </b>
+<center> <b> How to use </b> </center>
 
 Click Start and press Z &amp; X into the text box as fast as you can.
 
