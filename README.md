@@ -2,7 +2,7 @@
 Counts how many times you can press Z &amp; X in one second and transfers that into BPM
 
 <b> How to use </b>
-Click Start and press Z $amp; X into the text box as fast as you can.
+Click Start and press Z &amp; X into the text box as fast as you can.
 
 Every second it will check if your current BPM is higher than your Max BPM
 
